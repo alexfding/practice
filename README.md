@@ -1,1 +1,1 @@
-##for practicing and testing Git and Github skills
+##For practicing and testing Git and Github skills
